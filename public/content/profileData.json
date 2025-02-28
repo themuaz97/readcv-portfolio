@@ -1,15 +1,15 @@
 {
   "general": {
     "profilePhoto": "/content/media/profilePhoto.jpg",
-    "username": "themuaz97",
+    "username": "muazazmen",
     "displayName": "Muaz",
     "profession": "Fullstack Developer",
     "location": "Malaysia",
     "pronouns": null,
     "byline": "Fullstack Developer in Malaysia",
-    "website": "https://bento.me/themuaz97",
-    "websiteURL": "https://bento.me/themuaz97",
-    "about": "Currently learning Laravel, Typescript, Github Actions",
+    "website": "https://bento.me/muazazmen",
+    "websiteURL": "https://bento.me/muazazmen",
+    "about": "Currently learning FastAPI, Laravel, Typescript, Github Actions",
     "status": {
       "text": "The rules dictate you must be precise, as the law is a precise endeavor",
       "emoji": "🙂",
@@ -356,8 +356,8 @@
     {
       "id": "ElSLCjJ82WbBMPLUCq6q",
       "platform": "Email",
-      "handle": "muaz.rahman97@gmail.com",
-      "url": "mailto:muaz.rahman97@gmail.com"
+      "handle": "muazazmen@gmail.com",
+      "url": "mailto:muazazmen@gmail.com"
     },
     {
       "id": "nxB4ur3z8eBj0W6jAxLJ",
@@ -713,8 +713,8 @@
         {
           "id": "ElSLCjJ82WbBMPLUCq6q",
           "platform": "Email",
-          "handle": "muaz.rahman97@gmail.com",
-          "url": "mailto:muaz.rahman97@gmail.com"
+          "handle": "muazazmen@gmail.com",
+          "url": "mailto:muazazmen@gmail.com"
         },
         {
           "id": "nxB4ur3z8eBj0W6jAxLJ",
