@@ -1,0 +1,734 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "themuaz97",
+    "displayName": "Muaz",
+    "profession": "Fullstack Developer",
+    "location": "Malaysia",
+    "pronouns": null,
+    "byline": "Fullstack Developer in Malaysia",
+    "website": "https://bento.me/themuaz97",
+    "websiteURL": "https://bento.me/themuaz97",
+    "about": "Currently learning Laravel, Typescript, Github Actions",
+    "status": {
+      "text": "The rules dictate you must be precise, as the law is a precise endeavor",
+      "emoji": "🙂",
+      "timestamp": "2024-12-30T07:13:10.395Z"
+    },
+    "sectionOrder": [
+      "Work Experience",
+      "Projects",
+      "Side Projects",
+      "Education",
+      "Certifications",
+      "Awards",
+      "Contact",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Features",
+      "Volunteering",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "5NddNU8YeHwArwQB6gyt",
+      "year": "Ongoing",
+      "heading": "Resepsi",
+      "url": null,
+      "collaborators": [],
+      "description": "An event management system",
+      "attachments": [],
+      "type": "project",
+      "title": "Resepsi",
+      "company": ""
+    },
+    {
+      "id": "PBEfA9OhLvFktsUATyFg",
+      "year": "2025",
+      "heading": "Jejak Kerja",
+      "url": "https://jejakkerja.tech",
+      "collaborators": [],
+      "description": "A job application tracker",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 537,
+          "url": "/content/media/Jejak-Kerja-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 533,
+          "url": "/content/media/Jejak-Kerja-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 853,
+          "height": 421,
+          "url": "/content/media/Jejak-Kerja-3.png"
+        },
+        {
+          "type": "image",
+          "width": 540,
+          "height": 1170,
+          "url": "/content/media/Jejak-Kerja-4.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Jejak Kerja",
+      "company": ""
+    },
+    {
+      "id": "lAPZlz9PrMl4UR1QXMD0",
+      "year": "2024",
+      "heading": "Cakap Chat",
+      "url": "https://cakap-chat.onrender.com",
+      "collaborators": [],
+      "description": "A real-time chat application",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1868,
+          "height": 919,
+          "url": "/content/media/Cakap-Chat-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1862,
+          "height": 920,
+          "url": "/content/media/Cakap-Chat-2.png"
+        }
+      ],
+      "type": "project",
+      "title": "Cakap Chat",
+      "company": ""
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "MXGJo7CfZ5c8DNtZ7mIh",
+      "year": "Ongoing",
+      "heading": "Kedatangan",
+      "url": "https://github.com/themuaz97/kedatangan",
+      "collaborators": [],
+      "description": "A custom template using tailwind",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Kedatangan",
+      "company": ""
+    },
+    {
+      "id": "jB1zMbIJMtYqSwWUxbeI",
+      "year": "2024",
+      "heading": "Movies Directory",
+      "url": "https://github.com/themuaz97/muaz-movie",
+      "collaborators": [],
+      "description": "A movie directory website integrating with TMDB API",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 800,
+          "height": 411,
+          "url": "/content/media/Movies-Directory-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 800,
+          "height": 398,
+          "url": "/content/media/Movies-Directory-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 800,
+          "height": 412,
+          "url": "/content/media/Movies-Directory-3.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Movies Directory",
+      "company": ""
+    },
+    {
+      "id": "uaqAdrpfA6i8aWWzkbTl",
+      "year": "2023",
+      "heading": "Megathlon IMS",
+      "url": "https://github.com/themuaz97/Megathlon-v1.1",
+      "collaborators": [],
+      "description": "An Inventory Management System",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Megathlon-IMS-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Megathlon-IMS-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Megathlon-IMS-3.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Megathlon IMS",
+      "company": ""
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [
+    {
+      "id": "qkkg6HoYrFHowup7zSdV",
+      "year": "2019",
+      "heading": "Gold Place in IIICE from International Innovation Invention Creation Exhibition (IIICE)",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "award",
+      "title": "Gold Place in IIICE",
+      "presenter": "International Innovation Invention Creation Exhibition (IIICE)"
+    }
+  ],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "4d10xtPC28viJpMpzcHS",
+      "year": "2024 — Now",
+      "heading": "Fullstack Developer at Krenovator Technology Sdn Bhd",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Fullstack Developer",
+      "company": "Krenovator Technology Sdn Bhd",
+      "location": "Balakong, Selangor"
+    },
+    {
+      "id": "qOzUVJVR3hdeyZoujyD9",
+      "year": "2024 — 2024",
+      "heading": "Software Engineer at XOX Technology Berhad",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Software Engineer",
+      "company": "XOX Technology Berhad",
+      "location": "Ara Damansara, Selangor"
+    },
+    {
+      "id": "1eu2yUbuyJcHpZaTvQKW",
+      "year": "2020 — 2020",
+      "heading": "Wordpress Developer at OneSyabab Sdn Bhd",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Wordpress Developer",
+      "company": "OneSyabab Sdn Bhd",
+      "location": "Bandar Baru Bangi, Selangoe"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "PvvLFlaVKTAAbyBU97Fb",
+      "year": "2023 — 2023",
+      "heading": "Peneraju Teknologi Fullstack Java Professional at Yayasan Peneraju",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Peneraju Teknologi Fullstack Java Professional",
+      "school": "Yayasan Peneraju",
+      "location": "Petaling Jaya, Selangor"
+    },
+    {
+      "id": "Lv1QcIXqe8vj41uiAylX",
+      "year": "2016 — 2020",
+      "heading": "Bachelor's Degree of Quran and Multimedia (HONS) at Islamic Science University of Malaysia",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor's Degree of Quran and Multimedia (HONS)",
+      "school": "Islamic Science University of Malaysia",
+      "location": "Nilai, Negeri Sembilan"
+    },
+    {
+      "id": "uJ8R2yNOzl96aISuD8El",
+      "year": "2015 — 2015",
+      "heading": "Sijil Tinggi Agama Malaysia at Kulliah Lughah Waddin Sultan Abu Bakar",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Sijil Tinggi Agama Malaysia",
+      "school": "Kulliah Lughah Waddin Sultan Abu Bakar",
+      "location": "Pekan, Pahang"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "RwwxaNuKAZPIAn7mxKw5",
+      "year": "2023",
+      "heading": "Java Certified Foundation Associate from Oracle",
+      "url": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=13161C79AE4EA9E3135D7145D0BBFA5519B77A1D7AFB0675A63367C526A38F67",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Java Certified Foundation Associate",
+      "organization": "Oracle"
+    },
+    {
+      "id": "HXnuB6rtxUIouGrO6uOB",
+      "year": "2023",
+      "heading": "Certified Java Developer from CCSD Council",
+      "url": null,
+      "collaborators": [],
+      "description": "Credential ID: 5da23a8",
+      "attachments": [],
+      "type": "certification",
+      "name": "Certified Java Developer",
+      "organization": "CCSD Council"
+    },
+    {
+      "id": "t3TvwXs1bAvJNa4itg7f",
+      "year": "2023",
+      "heading": "Front-End Development Libraries from FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/themuaz97/front-end-development-libraries",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Front-End Development Libraries",
+      "organization": "FreeCodeCamp"
+    },
+    {
+      "id": "5WTQuqqrll18c6rf2oa6",
+      "year": "2023",
+      "heading": "Responsive Web Design from FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/themuaz97/responsive-web-design",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Responsive Web Design",
+      "organization": "FreeCodeCamp"
+    },
+    {
+      "id": "TExBCgfF6X12HUsWoedw",
+      "year": "2023",
+      "heading": "Javascripts Algorithm & Data Structures from FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/themuaz97/javascript-algorithms-and-data-structures",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Javascripts Algorithm & Data Structures",
+      "organization": "FreeCodeCamp"
+    }
+  ],
+  "contact": [
+    {
+      "id": "qgFvPI949VdXWCImUQBV",
+      "platform": "LinkedIn",
+      "handle": "muazazmen",
+      "url": "https://linkedin.com/in/muazazmen"
+    },
+    {
+      "id": "ElSLCjJ82WbBMPLUCq6q",
+      "platform": "Email",
+      "handle": "muaz.rahman97@gmail.com",
+      "url": "mailto:muaz.rahman97@gmail.com"
+    },
+    {
+      "id": "nxB4ur3z8eBj0W6jAxLJ",
+      "platform": "GitHub",
+      "handle": "themuaz97",
+      "url": "https://github.com/themuaz97"
+    },
+    {
+      "id": "Vw98tEA7nODg9apndr4g",
+      "platform": "Figma",
+      "handle": "themuaz97",
+      "url": "https://figma.com/@themuaz97"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "4d10xtPC28viJpMpzcHS",
+          "year": "2024 — Now",
+          "heading": "Fullstack Developer at Krenovator Technology Sdn Bhd",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Fullstack Developer",
+          "company": "Krenovator Technology Sdn Bhd",
+          "location": "Balakong, Selangor"
+        },
+        {
+          "id": "qOzUVJVR3hdeyZoujyD9",
+          "year": "2024 — 2024",
+          "heading": "Software Engineer at XOX Technology Berhad",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Software Engineer",
+          "company": "XOX Technology Berhad",
+          "location": "Ara Damansara, Selangor"
+        },
+        {
+          "id": "1eu2yUbuyJcHpZaTvQKW",
+          "year": "2020 — 2020",
+          "heading": "Wordpress Developer at OneSyabab Sdn Bhd",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Wordpress Developer",
+          "company": "OneSyabab Sdn Bhd",
+          "location": "Bandar Baru Bangi, Selangoe"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "5NddNU8YeHwArwQB6gyt",
+          "year": "Ongoing",
+          "heading": "Resepsi",
+          "url": null,
+          "collaborators": [],
+          "description": "An event management system",
+          "attachments": [],
+          "type": "project",
+          "title": "Resepsi",
+          "company": ""
+        },
+        {
+          "id": "PBEfA9OhLvFktsUATyFg",
+          "year": "2025",
+          "heading": "Jejak Kerja",
+          "url": "https://jejakkerja.tech",
+          "collaborators": [],
+          "description": "A job application tracker",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 537,
+              "url": "/content/media/Jejak-Kerja-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 533,
+              "url": "/content/media/Jejak-Kerja-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 853,
+              "height": 421,
+              "url": "/content/media/Jejak-Kerja-3.png"
+            },
+            {
+              "type": "image",
+              "width": 540,
+              "height": 1170,
+              "url": "/content/media/Jejak-Kerja-4.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Jejak Kerja",
+          "company": ""
+        },
+        {
+          "id": "lAPZlz9PrMl4UR1QXMD0",
+          "year": "2024",
+          "heading": "Cakap Chat",
+          "url": "https://cakap-chat.onrender.com",
+          "collaborators": [],
+          "description": "A real-time chat application",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1868,
+              "height": 919,
+              "url": "/content/media/Cakap-Chat-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1862,
+              "height": 920,
+              "url": "/content/media/Cakap-Chat-2.png"
+            }
+          ],
+          "type": "project",
+          "title": "Cakap Chat",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "MXGJo7CfZ5c8DNtZ7mIh",
+          "year": "Ongoing",
+          "heading": "Kedatangan",
+          "url": "https://github.com/themuaz97/kedatangan",
+          "collaborators": [],
+          "description": "A custom template using tailwind",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Kedatangan",
+          "company": ""
+        },
+        {
+          "id": "jB1zMbIJMtYqSwWUxbeI",
+          "year": "2024",
+          "heading": "Movies Directory",
+          "url": "https://github.com/themuaz97/muaz-movie",
+          "collaborators": [],
+          "description": "A movie directory website integrating with TMDB API",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 800,
+              "height": 411,
+              "url": "/content/media/Movies-Directory-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 800,
+              "height": 398,
+              "url": "/content/media/Movies-Directory-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 800,
+              "height": 412,
+              "url": "/content/media/Movies-Directory-3.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Movies Directory",
+          "company": ""
+        },
+        {
+          "id": "uaqAdrpfA6i8aWWzkbTl",
+          "year": "2023",
+          "heading": "Megathlon IMS",
+          "url": "https://github.com/themuaz97/Megathlon-v1.1",
+          "collaborators": [],
+          "description": "An Inventory Management System",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Megathlon-IMS-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Megathlon-IMS-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Megathlon-IMS-3.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Megathlon IMS",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "PvvLFlaVKTAAbyBU97Fb",
+          "year": "2023 — 2023",
+          "heading": "Peneraju Teknologi Fullstack Java Professional at Yayasan Peneraju",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Peneraju Teknologi Fullstack Java Professional",
+          "school": "Yayasan Peneraju",
+          "location": "Petaling Jaya, Selangor"
+        },
+        {
+          "id": "Lv1QcIXqe8vj41uiAylX",
+          "year": "2016 — 2020",
+          "heading": "Bachelor's Degree of Quran and Multimedia (HONS) at Islamic Science University of Malaysia",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor's Degree of Quran and Multimedia (HONS)",
+          "school": "Islamic Science University of Malaysia",
+          "location": "Nilai, Negeri Sembilan"
+        },
+        {
+          "id": "uJ8R2yNOzl96aISuD8El",
+          "year": "2015 — 2015",
+          "heading": "Sijil Tinggi Agama Malaysia at Kulliah Lughah Waddin Sultan Abu Bakar",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Sijil Tinggi Agama Malaysia",
+          "school": "Kulliah Lughah Waddin Sultan Abu Bakar",
+          "location": "Pekan, Pahang"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "RwwxaNuKAZPIAn7mxKw5",
+          "year": "2023",
+          "heading": "Java Certified Foundation Associate from Oracle",
+          "url": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=13161C79AE4EA9E3135D7145D0BBFA5519B77A1D7AFB0675A63367C526A38F67",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Java Certified Foundation Associate",
+          "organization": "Oracle"
+        },
+        {
+          "id": "HXnuB6rtxUIouGrO6uOB",
+          "year": "2023",
+          "heading": "Certified Java Developer from CCSD Council",
+          "url": null,
+          "collaborators": [],
+          "description": "Credential ID: 5da23a8",
+          "attachments": [],
+          "type": "certification",
+          "name": "Certified Java Developer",
+          "organization": "CCSD Council"
+        },
+        {
+          "id": "t3TvwXs1bAvJNa4itg7f",
+          "year": "2023",
+          "heading": "Front-End Development Libraries from FreeCodeCamp",
+          "url": "https://www.freecodecamp.org/certification/themuaz97/front-end-development-libraries",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Front-End Development Libraries",
+          "organization": "FreeCodeCamp"
+        },
+        {
+          "id": "5WTQuqqrll18c6rf2oa6",
+          "year": "2023",
+          "heading": "Responsive Web Design from FreeCodeCamp",
+          "url": "https://www.freecodecamp.org/certification/themuaz97/responsive-web-design",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Responsive Web Design",
+          "organization": "FreeCodeCamp"
+        },
+        {
+          "id": "TExBCgfF6X12HUsWoedw",
+          "year": "2023",
+          "heading": "Javascripts Algorithm & Data Structures from FreeCodeCamp",
+          "url": "https://www.freecodecamp.org/certification/themuaz97/javascript-algorithms-and-data-structures",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Javascripts Algorithm & Data Structures",
+          "organization": "FreeCodeCamp"
+        }
+      ]
+    },
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "qkkg6HoYrFHowup7zSdV",
+          "year": "2019",
+          "heading": "Gold Place in IIICE from International Innovation Invention Creation Exhibition (IIICE)",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "award",
+          "title": "Gold Place in IIICE",
+          "presenter": "International Innovation Invention Creation Exhibition (IIICE)"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "qgFvPI949VdXWCImUQBV",
+          "platform": "LinkedIn",
+          "handle": "muazazmen",
+          "url": "https://linkedin.com/in/muazazmen"
+        },
+        {
+          "id": "ElSLCjJ82WbBMPLUCq6q",
+          "platform": "Email",
+          "handle": "muaz.rahman97@gmail.com",
+          "url": "mailto:muaz.rahman97@gmail.com"
+        },
+        {
+          "id": "nxB4ur3z8eBj0W6jAxLJ",
+          "platform": "GitHub",
+          "handle": "themuaz97",
+          "url": "https://github.com/themuaz97"
+        },
+        {
+          "id": "Vw98tEA7nODg9apndr4g",
+          "platform": "Figma",
+          "handle": "themuaz97",
+          "url": "https://figma.com/@themuaz97"
+        }
+      ]
+    }
+  ]
+}
